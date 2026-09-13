@@ -135,7 +135,7 @@ snapshot         // 撤回快照：{ tray: [id...], taken: [bool...], steps }
 
 ```
 game/                    ← 本仓库（仓库名即 game）
-└── niulegeniu/
+└── niu-le-ge-niu/
     ├── index.html       ← 游戏本体（单文件，约 2.2 MB，含全部图片）
     └── README.md        ← 本文档
 ```
@@ -183,11 +183,11 @@ game/                    ← 本仓库（仓库名即 game）
 
 仓库地址：<https://github.com/850723980/game>
 
-1. 把 `niulegeniu` 文件夹上传到仓库（保留目录结构）
+1. 把 `niu-le-ge-niu` 文件夹上传到仓库（保留目录结构）
 2. 仓库 **Settings → Pages** → Source 选 `main` 分支 + `/ (root)` → Save
 3. 一分钟后访问：
    ```
-   https://850723980.github.io/game/niulegeniu/
+   https://850723980.github.io/game/niu-le-ge-niu/
    ```
 
 > 提示：仓库根目录没有 `index.html`，所以访问 `https://850723980.github.io/game/` 会 404，直接访问上面完整的嵌套路径即可。
